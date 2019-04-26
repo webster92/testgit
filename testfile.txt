@@ -1,2 +1,2 @@
 somedata=what
-password=password
+password=********
